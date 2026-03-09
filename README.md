@@ -12,7 +12,7 @@ const me = {
   role:      "Web & Python Dev",
   focus:     ["UI/UX", "Design Website", "Web Performance"],
   currently: "building things that feel as good as they look",
-  contact:   "zosinz@email.com",
+  contact:   "zosinz69@email.com",
 };
 ```
 
