@@ -38,6 +38,7 @@ const me = {
 | project | description | stack |
 |---------|-------------|-------|
 | [**7K-Multi-Screen**](https://github.com/Yusinz-Zero/7K-Multi-Screen) | Multi-instance For 7k | `Python` |
+| [**SpikiMMO-bot**](https://github.com/Yusinz-Zero/SpikiMMO-bot) | Bot for SpikiMMO | `Javascript` |
 
 ---
 
