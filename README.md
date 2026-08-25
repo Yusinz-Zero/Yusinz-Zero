@@ -46,7 +46,7 @@ const me = {
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Yusinz-Zero&theme=transparent&hide_border=true&ring=64748b&fire=e2e8f0&currStreakLabel=e2e8f0&sideLabels=94a3b8&currStreakNum=e2e8f0&sideNums=94a3b8&dates=475569&stroke=1e293b)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Yusinz-Zero)](https://git.io/streak-stats)
 
 </div>
 
