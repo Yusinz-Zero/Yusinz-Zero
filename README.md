@@ -46,7 +46,11 @@ const me = {
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1)](https://git.io/streak-stats)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Yusinz-Zero&theme=onedark&animation=fade)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Yusinz-Zero&theme=onedark&animation=fade)
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Yusinz-Zero&theme=onedark&animation=fade)
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Yusinz-Zero&theme=onedark&animation=fade)
+![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Yusinz-Zero&theme=onedark&animation=fade&utcOffset=0)
 
 </div>
 
